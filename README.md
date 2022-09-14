@@ -19,8 +19,9 @@
 
 # Sample
 
-![localhost_5173_(iPhone SE)](https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png)
-
+<p align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png">
+</p>
 
 # Installation
 
