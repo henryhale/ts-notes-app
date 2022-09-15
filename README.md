@@ -20,7 +20,7 @@
 # Sample
 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png">
+  <img width="60%" src="https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png">
 </p>
 
 # Installation
