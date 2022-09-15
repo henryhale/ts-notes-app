@@ -11,11 +11,14 @@
 
 # Task Manager 📝
 
-> Features included are
+**Features included are:**
+
 -  📝View All Notes
 -  ✏ Add New Note
--  🗑 Delete A Note (at double click on pcs)
+-  🗑 Delete A Note (@dblclick)
 -  🔍 Search For A Note
+
+> The entire app is implemented using _TypeScript_. 
 
 ## Sample
 
