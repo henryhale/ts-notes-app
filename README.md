@@ -18,7 +18,7 @@
 -  🗑 Delete A Note (@dblclick)
 -  🔍 Search For A Note
 
-> The entire app is implemented using _TypeScript_. 
+> The entire app is built using [_TypeScript_](https://typescriptlang.org) and [_ViteJS_](https://vitejs.dev). 
 
 ## Sample
 
