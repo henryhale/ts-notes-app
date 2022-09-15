@@ -37,6 +37,8 @@ Run local dev server using
 npm run dev
 ````
 
+Open your browser and go to `http://localhost:5173`
+
 ### Build
 
 To build the application, run
