@@ -17,7 +17,7 @@
 -  🗑 Delete A Note (at double click on pcs)
 -  🔍 Search For A Note
 
-#@ Sample
+## Sample
 
 <p align="center">
   <img width="60%" src="https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png">
