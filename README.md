@@ -14,13 +14,13 @@
 > Features included are
 -  📝View All Notes
 -  ✏ Add New Note
--  🗑 Delete A Note (on double click)
+-  🗑 Delete A Note (at double click on pcs)
 -  🔍 Search For A Note
 
 # Sample
 
 <p align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png">
+  <img width="200" src="https://user-images.githubusercontent.com/92443116/190037696-bc927836-ee76-401b-b23e-ae8b22710995.png">
 </p>
 
 # Installation
