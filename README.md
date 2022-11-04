@@ -9,7 +9,7 @@
 
 <br/>
 
-# Task Manager 📝
+# Notes App 📝
 
 **Features included are:**
 
